@@ -1,0 +1,29 @@
+/* styles.css */
+
+/* Add global styles here */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f1f1f1;
+}
+
+/* Add specific styles for your website sections and elements */
+header {
+  background-color: #ffffff;
+  padding: 20px;
+  /* Add more styles as needed */
+}
+
+main {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 20px;
+  /* Add more styles as needed */
+}
+
+footer {
+  background-color: #f9f9f9;
+  padding: 20px;
+  /* Add more styles as needed */
+}
+
+/* Add additional CSS rules for different sections, classes, or IDs */
